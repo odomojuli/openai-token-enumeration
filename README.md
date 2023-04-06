@@ -32,3 +32,10 @@ for i in special_tokens:
 
 # Close session
 stdoutOrigin.close()
+```
+
+# Formatting
+
+Strings are represented in byte-format using `enc.decode_tokens_bytes` to handle whitespace.
+
+Strings may be alternatively represented using `enc.decode` to get raw output.
