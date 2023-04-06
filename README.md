@@ -34,7 +34,7 @@ for i in special_tokens:
 stdoutOrigin.close()
 ```
 
-# # Formatting
+## Formatting
 
 Strings are represented in byte-format using `enc.decode_tokens_bytes` to handle whitespace.
 
