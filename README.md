@@ -2,7 +2,6 @@
 Enumeration of stable tokens
 
 ## Enumeration
-
 ```
 import tiktoken
 import sys
@@ -32,3 +31,18 @@ for i in special_tokens:
 
 # Close session
 stdoutOrigin.close()
+
+```
+
+## fUn fAcTs
+```
+count | 100261.000000
+mean | 6.325869
+std | 4.105298
+min	| 1.000000
+25%	| 4.000000
+50% | 6.000000
+75%	| 8.000000
+max	| 128.000000
+```
+
