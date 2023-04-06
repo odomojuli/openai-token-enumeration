@@ -33,7 +33,7 @@ for i in special_tokens:
 stdoutOrigin.close()
 
 ```
-
+---
 ## fUn fAcTs
 ```
 count   100261.000000
@@ -45,3 +45,7 @@ min     1.000000
 75%     8.000000
 max     128.000000
 ```
+---
+### LENGTH OF BYTE-STRINGS
+
+!['Length of Byte Strings'](length_of_byte_strings.png)
